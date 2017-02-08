@@ -31,3 +31,13 @@ onshore
 offshore
 海上的
 </>
+NDT
+abbreviation of: Non-destructive Testing
+无损检测
+</>
+hydrotest
+水压测试
+</>
+HeliDeck
+直升机甲板(海洋平台)
+</>
