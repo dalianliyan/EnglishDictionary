@@ -1,25 +1,32 @@
 BD
-Business Development
+abbreviation of: Business Development
+Position of Intergraph PPM
 业务拓展
-具体的工作内容就是寻求本行业（或本公司的业务）与其他行业或公司合作以追求双方双赢的结果。
-通常，都是寻求通过其与他行业或本行业内的大型企业合作，快速扩大自己公司的业务。
 </>
 AE
-Application Engineer
+abbreviation of: Application Engineer
+Position of Intergraph PPM
 应用工程师
 </>
+CCC
+abbreviation of: China Capability Center
+Department of Intergraph PPM
+</>
 OMSB
-OceanMight Sdn. Bhd. 
-An associate company of KKB Engineering Berhad.
+abbreviation of: OceanMight Sdn. Bhd.
 </>
 Berhad
-有限公司
+有限公司(马来语)
 </>
 PETRONAS
-马来西亚国家石油公司
+abbreviation of: Petroliam Nasional Berhad
+马来西亚国家石油公司(马来语)
+</>
+EPCIC
+abbreviation of: Engineering, Procurement, Construction, Installation and Commissioning
 </>
 onshore
-陆地上的
+陆上的
 </>
 offshore
 海上的
