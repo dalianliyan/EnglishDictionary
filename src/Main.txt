@@ -1,12 +1,34 @@
+ID
+abbreviation of: Industry Development
+Position of Intergraph PPM
+行业拓展
+</>
 BD
 abbreviation of: Business Development
 Position of Intergraph PPM
-业务拓展
+商务拓展
+</>
+Business Development Supervisor
+Position of Intergraph PPM
+商务拓展主管
 </>
 AE
 abbreviation of: Application Engineer
 Position of Intergraph PPM
 应用工程师
+</>
+PM
+abbreviation of: Project Manager
+Position of Intergraph PPM
+项目经理
+</>
+HR & Admin Supervisor
+Position of Intergraph PPM
+人力和行政主管
+</>
+HR & Admin Specialist
+Position of Intergraph PPM
+人力和行政专员
 </>
 CCC
 abbreviation of: China Capability Center
