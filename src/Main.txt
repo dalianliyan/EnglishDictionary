@@ -34,6 +34,17 @@ CCC
 abbreviation of: China Capability Center
 Department of Intergraph PPM
 </>
+BIM
+abbreviation of: Building Information Modeling
+建筑信息模型
+</>
+AEC
+abbreviation of: 
+
+</>
+Smart Build
+An enterprise construction management software solution designed to alleviate cost overruns and delays
+</>
 OMSB
 abbreviation of: OceanMight Sdn. Bhd.
 </>
