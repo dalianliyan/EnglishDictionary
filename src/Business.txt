@@ -30,6 +30,10 @@ HR & Admin Specialist
 Position of Intergraph PPM
 人力和行政专员
 </>
+PO
+abbreviation of: Project Order
+项目订单
+</>
 CCC
 abbreviation of: China Capability Center
 Department of Intergraph PPM
