@@ -62,3 +62,8 @@ abbreviation of: Petroliam Nasional Berhad
 EPCIC
 abbreviation of: Engineering, Procurement, Construction, Installation and Commissioning
 </>
+invention
+发明
+</>
+innovation
+创新
