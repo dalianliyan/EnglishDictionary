@@ -1,0 +1,4 @@
+RC
+abbreviation of: Release Candidate
+发布候选
+</>
