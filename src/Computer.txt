@@ -2,3 +2,7 @@ RC
 abbreviation of: Release Candidate
 发布候选
 </>
+RTM
+abbreviation of: released to manufacturers
+下场封装
+</>
