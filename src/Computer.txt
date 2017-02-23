@@ -6,3 +6,19 @@ RTM
 abbreviation of: released to manufacturers
 下场封装
 </>
+AI & AML
+abbreviation of: Artificial Intelligence and Advanced Machine Learning
+</>
+VR
+abbreviation of: Virtual Reality
+</>
+AR
+abbreviation of: Augmented Reality
+</>
+Digital Twin
+Digital twins refer to computerized companions of physical assets that can be used for various purposes. Digital twins use data from sensors installed on physical objects to represent their near real-time status, working condition or position.
+https://en.wikipedia.org/wiki/Digital_Twins
+</>
+Blockchains and Distributed Ledgers
+区块链技术
+</>
