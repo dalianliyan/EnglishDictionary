@@ -23,6 +23,10 @@ Structural
 Piping
 管路专业
 </>
+CC
+abbreviation of: corrosion
+防腐专业
+</>
 Fabrication
 制造
 </>
