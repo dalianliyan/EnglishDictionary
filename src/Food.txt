@@ -1,8 +1,14 @@
 plum
 李子
 </>
+peach
+桃子
+</>
 Chinese Date
 红枣
+</>
+grape
+葡萄
 </>
 Kiwi Fruit
 猕猴桃
@@ -18,5 +24,15 @@ the ~ of ...（在某领域）广受赞誉的人，有口皆碑的人
 例句：
 With great pleasure I ask you to toast the long-term cooperation between us.
 </>
+low fat milk
+低脂牛奶
+</>
+milk powder
+奶粉
+</>
 yogurt
 n. 酸奶;酸乳
+</>
+beverage
+饮料
+</>
