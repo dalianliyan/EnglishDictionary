@@ -44,10 +44,14 @@ abbreviation of: Building Information Modeling
 </>
 AEC
 abbreviation of: 
-
+???????????????
 </>
 Smart Build
 An enterprise construction management software solution designed to alleviate cost overruns and delays
+</>
+ENS
+abbreviation of: 
+???????????????
 </>
 OMSB
 abbreviation of: OceanMight Sdn. Bhd.
