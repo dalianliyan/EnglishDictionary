@@ -22,3 +22,12 @@ https://en.wikipedia.org/wiki/Digital_Twins
 Blockchains and Distributed Ledgers
 区块链技术
 </>
+Generic
+泛型
+</>
+Placeholders
+占位符
+</>
+Substitution
+替换
+</>
