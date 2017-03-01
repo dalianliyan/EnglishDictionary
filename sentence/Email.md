@@ -1,6 +1,8 @@
+## Welcome New Staff - Commercial Specialist- Mr. Lee Zinan
+
 Dear ALL,
  
-I am very delighted to inform you all that Mr. Lee Ziyan joined us on February 27, 2017. 
+I am very delighted to inform you all that Mr. Lee Zinan joined us on February 27, 2017. 
 
 He works as Commercial Specialist in Beijing office and reports to Li Yang.
  
