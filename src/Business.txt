@@ -77,3 +77,13 @@ invention
 </>
 innovation
 创新
+</>
+Industry
+行业
+</>
+job
+职位
+</>
+Company
+公司
+</>
