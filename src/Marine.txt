@@ -1,3 +1,31 @@
+Jackup
+abbreviation of: Jack-up drilling rig
+自升式钻井平台
+</>
+semi
+abbreviation of: ******
+半潜式生产平台
+</>
+TLP
+abbreviation of: tension leg platform
+张力腿平台
+</>
+FPSO
+abbreviation of: floating production storage and offloading
+浮式生产储卸油船
+</>
+FLNG
+abbreviation of: floating liquefied natural gas
+浮式液化天然气装置
+</>
+FLPG
+abbreviation of: floating liquid petroleum gas
+浮式液化石油气船
+</>
+FSRU
+abbreviation of: ******* Utility 
+浮式存储再气化装置
+</>
 AHTS
 abbreviation of: Anchor Handling Towing and Supply vessels
 三用工作船
