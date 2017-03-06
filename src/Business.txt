@@ -94,3 +94,6 @@ job
 Company
 公司
 </>
+PDS
+abbreviation of: Plant Design System
+</>
