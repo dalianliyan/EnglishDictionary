@@ -1,3 +1,28 @@
+
+Company
+公司
+</>
+Hexagon Safety & Infrastructure
+海克斯康安全和基础设施
+</>
+Hexagon Geospatial
+海克斯康地理空间
+</>
+Hexagon PPM
+海克斯康PPM
+</>
+----------------------------------------
+department
+部门
+</>
+CCC
+abbreviation of: China Capability Center
+Department of Intergraph PPM
+</>
+----------------------------------------
+job
+职位
+</>
 ID
 abbreviation of: Industry Development
 Position of Intergraph PPM
@@ -36,13 +61,14 @@ commercial specialist
 receptionist
 前台
 </>
+----------------------------------------
 PO
 abbreviation of: Project Order
 项目订单
 </>
-CCC
-abbreviation of: China Capability Center
-Department of Intergraph PPM
+----------------------------------------
+Industry
+行业
 </>
 BIM
 abbreviation of: Building Information Modeling
@@ -52,13 +78,41 @@ AEC
 abbreviation of: 
 ???????????????
 </>
+EPCIC
+abbreviation of: Engineering, Procurement, Construction, Installation and Commissioning
+</>
+IM
+abbreviation of: Information Management
+</>
+invention
+发明
+</>
+innovation
+创新
+</>
+----------------------------------------
+Product
+产品
+</>
+EcoSys
+项目控制软件
+</>
+Nestix
+制造软件
+</>
 Smart Build
 An enterprise construction management software solution designed to alleviate cost overruns and delays
+</>
+PDS
+abbreviation of: Plant Design System
 </>
 ENS
 abbreviation of: 
 ???????????????
 </>
+SDA
+abbreviation of: Intergraph Smart® Digital Asset
+----------------------------------------
 OMSB
 abbreviation of: OceanMight Sdn. Bhd.
 </>
@@ -75,25 +129,4 @@ abbreviation of: China National Offshore Oild Corp.
 PETRONAS
 abbreviation of: Petroliam Nasional Berhad
 马来西亚国家石油公司(马来语)
-</>
-EPCIC
-abbreviation of: Engineering, Procurement, Construction, Installation and Commissioning
-</>
-invention
-发明
-</>
-innovation
-创新
-</>
-Industry
-行业
-</>
-job
-职位
-</>
-Company
-公司
-</>
-PDS
-abbreviation of: Plant Design System
 </>
