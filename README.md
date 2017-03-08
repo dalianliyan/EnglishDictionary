@@ -1,4 +1,4 @@
 # EnglishDictionary
-An English Dictionary for Personal usage.
+An English dictionary for personal usage.
 
 
