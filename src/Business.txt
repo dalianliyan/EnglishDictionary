@@ -19,14 +19,76 @@ CCC
 abbreviation of: China Capability Center
 Department of Intergraph PPM
 </>
+technical &services department
+技术服务部门
+</>
+the technical &services management commitee
+技术与服务管理委员会
+</>
+PM 
+abbreviation of: Project Management
+Department of Intergraph PPM
+</>
+I&S
+abbreviation of: Implementation & Service
+Department of Intergraph PPM
+</>
+LCR
+abbreviation of: Localization Creative Research
+Department of Intergraph PPM
+</>
+BIC
+abbreviation of: Business Industry Consulting
+Department of Intergraph PPM
+</>
+MTD
+abbreviation of: Marine Technical Development
+Department of Intergraph PPM
+</>
 ----------------------------------------
 job
 职位
 </>
-ID
-abbreviation of: Industry Development
+Executive President
+执行总裁
+</>
+director
+总监
+</>
+manager
+经理
+</>
+Executive President of PPM Greate China
 Position of Intergraph PPM
-行业拓展
+大中华区执行总裁
+</>
+technical &services director
+Position of Intergraph PPM
+技术服务总监
+</>
+pre-sales director
+Position of Intergraph PPM
+售前总监
+</>
+deputy technical &services director
+Position of Intergraph PPM
+技术服务副总监
+</>
+manager of Project Management
+Position of Intergraph PPM
+</>
+manager of Implementation & Service
+Position of Intergraph PPM
+</>
+manager of Localization Creative Research
+Position of Intergraph PPM
+</>
+manager of Business Industry Consulting
+Position of Intergraph PPM
+</>
+MTD
+abbreviation of: Marine Technical Development
+Department of Intergraph PPM
 </>
 BD
 abbreviation of: Business Development
@@ -113,18 +175,18 @@ abbreviation of:
 SDA
 abbreviation of: Intergraph Smart® Digital Asset
 ----------------------------------------
-OMSB
-abbreviation of: OceanMight Sdn. Bhd.
-</>
-Berhad
-有限公司(马来语)
-</>
 PetroChina
 中石油
 </>
 CNOOC
 abbreviation of: China National Offshore Oild Corp.
 中国海洋石油总公司
+</>
+OMSB
+abbreviation of: OceanMight Sdn. Bhd.
+</>
+Berhad
+有限公司(马来语)
 </>
 PETRONAS
 abbreviation of: Petroliam Nasional Berhad
