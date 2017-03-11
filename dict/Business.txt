@@ -149,6 +149,9 @@ abbreviation of: Information Management
 invention
 发明
 </>
+FTR
+abbreviation of :Full Text Retrieval
+</>
 innovation
 创新
 </>
