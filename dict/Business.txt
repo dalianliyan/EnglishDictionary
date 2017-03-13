@@ -155,7 +155,9 @@ abbreviation of :Full Text Retrieval
 innovation
 创新
 </>
-----------------------------------------
+ad hoc 
+拉丁文：特定的,临时的
+</>
 Product
 产品
 </>
