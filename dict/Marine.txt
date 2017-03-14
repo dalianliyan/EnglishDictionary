@@ -30,6 +30,10 @@ AHTS
 abbreviation of: Anchor Handling Towing and Supply vessels
 三用工作船
 </>
+OSV
+abbreviation of: offshore supply vessel
+海工支援船
+</>
 onshore
 陆上的
 </>
