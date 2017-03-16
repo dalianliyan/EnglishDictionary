@@ -19,3 +19,7 @@ FTA
 abbreviation of: Free Trade Area
 自由贸易区
 </>
+QE
+abbreviation of: Quantitative easing
+量化宽松：是一种非常规的货币政策，其操作是由一国的货币管理机构（通常是中央银行）通过公开市场操作，以提高实体经济环境中的货币供应量。中央银行的操作，相当于间接增印钞票。
+</>
