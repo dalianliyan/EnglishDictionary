@@ -132,6 +132,10 @@ FRS
 abbreviation of: Functional Requirements Specification document
 功能需求说明书
 </>
+SOW
+abbreviation of: Statement of Work
+工作说明
+</>
 ----------------------------------------
 Industry
 行业
