@@ -137,57 +137,6 @@ abbreviation of: Statement of Work
 工作说明
 </>
 ----------------------------------------
-Industry
-行业
-</>
-BIM
-abbreviation of: Building Information Modeling
-建筑信息模型
-</>
-AEC
-abbreviation of: 
-???????????????
-</>
-EPCIC
-abbreviation of: Engineering, Procurement, Construction, Installation and Commissioning
-</>
-IM
-abbreviation of: Information Management
-</>
-invention
-发明
-</>
-FTR
-abbreviation of :Full Text Retrieval
-</>
-innovation
-创新
-</>
-ad hoc 
-拉丁文：特定的,临时的
-</>
-Product
-产品
-</>
-EcoSys
-项目控制软件
-</>
-Nestix
-制造软件
-</>
-Smart Build
-An enterprise construction management software solution designed to alleviate cost overruns and delays
-</>
-PDS
-abbreviation of: Plant Design System
-</>
-ENS
-abbreviation of: 
-???????????????
-</>
-SDA
-abbreviation of: Intergraph Smart® Digital Asset
-----------------------------------------
 PetroChina
 中石油
 </>
