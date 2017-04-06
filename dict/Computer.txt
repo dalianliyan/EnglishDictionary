@@ -41,7 +41,7 @@ Source Serif Pro
 Adobe 开放源代码字体家族的第三个成员
 </>
 Source Han Sans
-named Noto Sans CJK in Google
+named **Noto Sans CJK** in Google
 思源黑体，Adobe 开放源代码字体家族的第四个成员
 </>
 Source Han Serif
@@ -52,8 +52,8 @@ CJK
 表示字体支持中文（Chinese）、日文（Japanese）、韩文（Korean）三国文字
 </>
 sans serif
-无衬线字体
+无衬线字体: 黑体、幼圆、雅黑
 </>
 serif
-衬线字体
+衬线字体: 宋体
 </>
