@@ -57,3 +57,36 @@ sans serif
 serif
 衬线字体: 宋体
 </>
+typeface
+字体
+</>
+weight
+字重是指相对于字高度的笔画粗细（stroke width）程度。一个字体（typeface）的某个字型（font）的字重常常至少4-6个，其中正常与黑体几乎是必备的：
+Hairline
+Thin
+ultra-light
+Extra-light
+light
+book
+normal / regular / plain
+medium
+Demi-bold / semi-bold
+bold
+extra-bold / extra
+Heavy
+Black
+Extra-black
+Ultra-black / ultra
+</>
+slope / slanted style
+倾斜的字体称为斜体（italic type）及伪斜体（oblique type）。
+</>
+width
+宽度:某些字型提供了同一尺寸下的不同宽度。
+compressed
+condensed
+narrow
+normal/regular
+extended
+expanded
+</>
