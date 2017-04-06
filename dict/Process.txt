@@ -1,1 +1,4 @@
-
+MIR
+abbrieviation of: material issue report
+材料出库单
+</>
