@@ -49,8 +49,30 @@ abbreviation of:
 SDA
 abbreviation of: Intergraph Smart® Digital Asset
 ----------------------------------------
-SmartPlant Spoolgen
+SPIso
+abbreviation of: SmartPlant Isomatrics
+</>
+SPSplgn
+abbreviation of: SmartPlant Spoolgen
 a product for pipe spool generation
+</>
+SPMaterialEditor
+abbreviation of: SmartPlant Material Editor
+</>
+SPSymbolEditor
+abbreviation of: SmartPlant Symbol Editor
+</>
+SPI-Configure
+abbreviation of: SmartPlant I-Configure
+</>
+SPIsoI-Convert
+abbreviation of: SmartPlant Isomatrics I-Convert
+</>
+SPIsoI-DataIntegration
+abbreviation of: SmartPlant Isomatrics I-DataIntegration
+</>
+SPIsoI-Tools
+abbreviation of:SmartPlant Isomatrics I-Tools
 </>
 IDF
 abbreviation of: Import data file
