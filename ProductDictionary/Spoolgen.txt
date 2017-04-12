@@ -23,11 +23,20 @@ abbreviation of: SmartPlant Isomatrics I-DataIntegration
 SPIsoI-Tools
 abbreviation of:SmartPlant Isomatrics I-Tools
 </>
+-------------------------------
+POD
+abbreviation of: ????
+main file format for Spoolgen
+</>
 IDF
 abbreviation of: Import data file
 a file format for data importing from PDMS to spoolgen
 </>
 PCF
 abbreviation of: Pipe Config file
-a file format for something
+a file format for Spoolgen
+</>
+ALT
+abbreviation of: alternative text
+a file format for Spoolgen
 </>
