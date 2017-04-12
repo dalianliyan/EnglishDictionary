@@ -1,21 +1,35 @@
 SPF
-Smart Plant Foundation
+abbreviation of: Smart Plant Foundation
 </>
 SPC
-Smart Plant Construction
+abbreviation of: Smart Plant Construction
+</>
+WQMS
+abbreviation of: ?????
+</>
+ROP
+abbreviation of: Rule of Progress
+operation: Design Documents --> Find
+</>
+Retrieve Mapping
+abbreviation of: Rule of Progress
+Retrieve data from SPF to SPC
+operation: Design Documents --> Find
 </>
 FTR
-abbreviation of :Full Text Retrieval
+abbreviation of: Full Text Retrieval
 </>
 ENS
 abbreviation of: 
 ???????????????
 </>
-ad hoc 
-拉丁文：特定的,临时的
+Adhoc Report
+ad hoc 拉丁文：特定的,临时的
+临时报表
 </>
 CMF
-a file format in SPF
+a file format in SPF for integration
+Find --> Integration --> Schema Documents...
 </>
 ----------------------------------------
 Industry
