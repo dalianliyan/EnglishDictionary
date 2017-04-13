@@ -2,3 +2,15 @@ MIR
 abbrieviation of: material issue report
 材料出库单
 </>
+General Arrangements Drawing
+管道布置图
+</>
+Pipe Section Drawing
+管道剖面图
+</>
+Pipe sometrics Drawing
+管道轴测图
+</>
+Pipe Spool Drawing
+管段图
+</>
