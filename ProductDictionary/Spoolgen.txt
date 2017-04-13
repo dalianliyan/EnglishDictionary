@@ -23,18 +23,21 @@ abbreviation of: SmartPlant Isomatrics I-DataIntegration
 SPIsoI-Tools
 abbreviation of:SmartPlant Isomatrics I-Tools
 </>
+Isogen
+Isogen is the isometric engine that produces the isometric and reports. This is integrated within Spoolgen.
+</>
 -------------------------------
 POD
-abbreviation of: ????
-main file format for Spoolgen
+abbreviation of: Piping Object Data
+main file format for Spoolgen. When a IDF / PCF is imported into Spoolgen it is converted to a POD file. The POD file adds more intelligence to the pipeline components. This file is edited when working in Spoolgen
 </>
 IDF
-abbreviation of: Import data file
-a file format for data importing from PDMS to spoolgen
+abbreviation of: Intermediate Data File
+A file format for Spoolgen. This is the piping design file produced by any 3D design system using Isogen. This file contains the 3D geometry of the pipeline, material descriptions and item codes.
 </>
 PCF
-abbreviation of: Pipe Config file
-a file format for Spoolgen
+abbreviation of: Piping Component File
+a file format for Spoolgen. This is a more modern equivalent of an IDF file. It contains the same information as an IDF but in a different structure. In time the PCF file will supersede the IDF file.
 </>
 ALT
 abbreviation of: alternative text
