@@ -1,0 +1,9 @@
+HCS
+Header Column Set
+</>
+WDCS
+Weld Detail Column Set
+</>
+BCS
+Body Column Set
+</>
