@@ -14,3 +14,19 @@ C:\Users\yli01\Desktop\EnglishDict\EnglishDict\obj\Debug\EnglishDict.Properties.
 C:\Users\yli01\Desktop\EnglishDict\EnglishDict\obj\Debug\EnglishDict.csproj.GenerateResource.Cache
 C:\Users\yli01\Desktop\EnglishDict\EnglishDict\obj\Debug\EnglishDict.exe
 C:\Users\yli01\Desktop\EnglishDict\EnglishDict\obj\Debug\EnglishDict.pdb
+D:\My Projects\EnglishDictionary\src\Client\CSharp\EnglishDict\bin\Debug\EnglishDict.exe.config
+D:\My Projects\EnglishDictionary\src\Client\CSharp\EnglishDict\obj\Debug\EnglishDict.exe
+D:\My Projects\EnglishDictionary\src\Client\CSharp\EnglishDict\obj\Debug\EnglishDict.pdb
+D:\My Projects\EnglishDictionary\src\Client\CSharp\EnglishDict\bin\Debug\EnglishDict.exe
+D:\My Projects\EnglishDictionary\src\Client\CSharp\EnglishDict\bin\Debug\EnglishDict.pdb
+D:\My Projects\EnglishDictionary\src\Client\CSharp\EnglishDict\bin\Debug\MongoDB.Bson.dll
+D:\My Projects\EnglishDictionary\src\Client\CSharp\EnglishDict\bin\Debug\MongoDB.Driver.Core.dll
+D:\My Projects\EnglishDictionary\src\Client\CSharp\EnglishDict\bin\Debug\MongoDB.Driver.dll
+D:\My Projects\EnglishDictionary\src\Client\CSharp\EnglishDict\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\My Projects\EnglishDictionary\src\Client\CSharp\EnglishDict\bin\Debug\MongoDB.Bson.xml
+D:\My Projects\EnglishDictionary\src\Client\CSharp\EnglishDict\bin\Debug\MongoDB.Driver.xml
+D:\My Projects\EnglishDictionary\src\Client\CSharp\EnglishDict\bin\Debug\MongoDB.Driver.Core.xml
+D:\My Projects\EnglishDictionary\src\Client\CSharp\EnglishDict\obj\Debug\EnglishDict.csprojResolveAssemblyReference.cache
+D:\My Projects\EnglishDictionary\src\Client\CSharp\EnglishDict\obj\Debug\EnglishDict.Form1.resources
+D:\My Projects\EnglishDictionary\src\Client\CSharp\EnglishDict\obj\Debug\EnglishDict.Properties.Resources.resources
+D:\My Projects\EnglishDictionary\src\Client\CSharp\EnglishDict\obj\Debug\EnglishDict.csproj.GenerateResource.Cache
