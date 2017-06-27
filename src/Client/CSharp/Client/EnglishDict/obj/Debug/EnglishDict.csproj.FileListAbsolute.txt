@@ -1,0 +1,16 @@
+C:\Users\yli01\Desktop\EnglishDict\EnglishDict\bin\Debug\EnglishDict.exe.config
+C:\Users\yli01\Desktop\EnglishDict\EnglishDict\bin\Debug\EnglishDict.exe
+C:\Users\yli01\Desktop\EnglishDict\EnglishDict\bin\Debug\EnglishDict.pdb
+C:\Users\yli01\Desktop\EnglishDict\EnglishDict\bin\Debug\MongoDB.Bson.dll
+C:\Users\yli01\Desktop\EnglishDict\EnglishDict\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\yli01\Desktop\EnglishDict\EnglishDict\bin\Debug\MongoDB.Driver.dll
+C:\Users\yli01\Desktop\EnglishDict\EnglishDict\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yli01\Desktop\EnglishDict\EnglishDict\bin\Debug\MongoDB.Bson.xml
+C:\Users\yli01\Desktop\EnglishDict\EnglishDict\bin\Debug\MongoDB.Driver.xml
+C:\Users\yli01\Desktop\EnglishDict\EnglishDict\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\yli01\Desktop\EnglishDict\EnglishDict\obj\Debug\EnglishDict.csprojResolveAssemblyReference.cache
+C:\Users\yli01\Desktop\EnglishDict\EnglishDict\obj\Debug\EnglishDict.Form1.resources
+C:\Users\yli01\Desktop\EnglishDict\EnglishDict\obj\Debug\EnglishDict.Properties.Resources.resources
+C:\Users\yli01\Desktop\EnglishDict\EnglishDict\obj\Debug\EnglishDict.csproj.GenerateResource.Cache
+C:\Users\yli01\Desktop\EnglishDict\EnglishDict\obj\Debug\EnglishDict.exe
+C:\Users\yli01\Desktop\EnglishDict\EnglishDict\obj\Debug\EnglishDict.pdb
