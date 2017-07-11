@@ -1,12 +1,6 @@
 SPF
 abbreviation of: Smart Plant Foundation
 </>
-SPC
-abbreviation of: Smart Plant Construction
-</>
-WQMS
-abbreviation of: ?????
-</>
 ROP
 abbreviation of: Rule of Progress
 operation: Design Documents --> Find
@@ -20,8 +14,7 @@ FTR
 abbreviation of: Full Text Retrieval
 </>
 ENS
-abbreviation of: 
-???????????????
+abbreviation of: Engineering Naming System
 </>
 Adhoc Report
 ad hoc 拉丁文：特定的,临时的
@@ -30,4 +23,7 @@ ad hoc 拉丁文：特定的,临时的
 CMF
 a file format in SPF for integration
 Find --> Integration --> Schema Documents...
+</>
+RFR
+abbreviation of: Reason For Receipt
 </>
