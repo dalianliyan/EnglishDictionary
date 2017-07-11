@@ -24,6 +24,13 @@ CMF
 a file format in SPF for integration
 Find --> Integration --> Schema Documents...
 </>
+Workflow
+a module of SPF
+</>
+OD
+abbreivation of: overdue date
+超期
+</>
 RFR
 abbreviation of: Reason For Receipt
 </>
