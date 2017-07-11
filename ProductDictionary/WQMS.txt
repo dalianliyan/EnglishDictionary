@@ -1,6 +1,9 @@
 WQMS
 abbreviation of: Weld Quality Management System
 </>
+NDT
+abbreviation of: non-destructive testing
+</>
 HCS
 Header Column Set
 </>
