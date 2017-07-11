@@ -1,3 +1,6 @@
+WQMS
+abbreviation of: Weld Quality Management System
+</>
 HCS
 Header Column Set
 </>
