@@ -6,12 +6,14 @@ abbreviation of: Rule of Progress
 operation: Design Documents --> Find
 </>
 Retrieve Mapping
-abbreviation of: Rule of Progress
 Retrieve data from SPF to SPC
 operation: Design Documents --> Find
 </>
 FTR
 abbreviation of: Full Text Retrieval
+</>
+RHM
+abbreviation of: right hand mouse
 </>
 ENS
 abbreviation of: Engineering Naming System
