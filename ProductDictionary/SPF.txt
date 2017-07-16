@@ -15,6 +15,9 @@ abbreviation of: Full Text Retrieval
 RHM
 abbreviation of: right hand mouse
 </>
+Min EFSchema
+refers to: the minimum set of SmartPlant schema definitions
+</>
 ENS
 abbreviation of: Engineering Naming System
 </>
