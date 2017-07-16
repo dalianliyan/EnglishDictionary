@@ -30,7 +30,8 @@ ad hoc 拉丁文：特定的,临时的
 临时报表
 </>
 CMF
-a file format in SPF for integration
+abbreviation of: Configuration Management File
+The integration schema is used to transfer information from one tool to another. The format of this schema is held in the Configuration Management File.
 Find --> Integration --> Schema Documents...
 </>
 Workflow
