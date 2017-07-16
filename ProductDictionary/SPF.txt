@@ -1,6 +1,9 @@
 SPF
 abbreviation of: Smart Plant Foundation
 </>
+CDW
+abbreviation of: Consolidated Data Warehouse
+</>
 ROP
 abbreviation of: Rule of Progress
 operation: Design Documents --> Find
