@@ -11,6 +11,7 @@ operation: Design Documents --> Find
 </>
 FTR
 abbreviation of: Full Text Retrieval
+全文检索
 </>
 RHM
 abbreviation of: right hand mouse
