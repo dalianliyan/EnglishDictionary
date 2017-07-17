@@ -41,6 +41,28 @@ OD
 abbreivation of: overdue date
 超期
 </>
-RFR
-abbreviation of: Reason For Receipt
+-----------------prefix-------------------------
+MTH_
+class uid prefix for: Method
+</>
+WF_
+class uid prefix for: SPFWorkflow
+</>
+WFSTP_
+class uid prefix for: SPFWorkflowStep
+</>
+STP_
+class uid prefix for: SPFStepDef
+</>
+WSC_
+class uid prefix for: SPFStepDefClass
+</>
+WST_
+class uid prefix for: SPFStepDefType
+</>
+RCPT_
+class uid prefix for: SPFWorkflowStepRecipient
+</>
+RFR_
+class uid prefix for: SPFReasonForReceipt
 </>
