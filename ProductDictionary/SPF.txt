@@ -19,6 +19,9 @@ abbreviation of: Full Text Retrieval
 RHM
 abbreviation of: right hand mouse
 </>
+OOTB
+out-of-the-box
+</>
 Min EFSchema
 refers to: the minimum set of SmartPlant schema definitions
 </>
@@ -40,6 +43,20 @@ a module of SPF
 OD
 abbreivation of: overdue date
 超期
+</>
+E&I
+abbreivation of: electric & istrument
+仪表和电气
+</>
+P&ID
+abbreivation of: process & instrument diagram
+工艺&仪表流程图
+</>
+WBS
+abbreivation of: work breakdown structure
+</>
+PBS
+abbreivation of: plant breakdown structure
 </>
 -----------------prefix-------------------------
 MTH_
