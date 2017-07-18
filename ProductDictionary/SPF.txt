@@ -59,6 +59,15 @@ PBS
 abbreivation of: plant breakdown structure
 </>
 -----------------prefix-------------------------
+USR_
+class uid prefix for: User
+</>
+RL_
+class uid prefix for: Role
+</>
+AG_
+class uid prefix for: AccessGroup
+</>
 MTH_
 class uid prefix for: Method
 </>
