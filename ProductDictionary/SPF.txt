@@ -1,6 +1,25 @@
 SPF
 abbreviation of: Smart Plant Foundation
 </>
+RHM
+abbreviation of: right hand mouse
+</>
+OOTB
+out-of-the-box
+</>
+Min EFSchema
+refers to: the minimum set of SmartPlant schema definitions
+</>
+CMF
+abbreviation of: Configuration Management File
+The integration schema is used to transfer information from one tool to another. The format of this schema is held in the Configuration Management File.
+Find --> Integration --> Schema Documents...
+</>
+OD
+abbreivation of: overdue date
+超期
+</>
+-----------------module-------------------------
 CDW
 abbreviation of: Consolidated Data Warehouse
 </>
@@ -16,15 +35,6 @@ FTR
 abbreviation of: Full Text Retrieval
 全文检索
 </>
-RHM
-abbreviation of: right hand mouse
-</>
-OOTB
-out-of-the-box
-</>
-Min EFSchema
-refers to: the minimum set of SmartPlant schema definitions
-</>
 ENS
 abbreviation of: Engineering Naming System
 </>
@@ -32,17 +42,11 @@ Adhoc Report
 ad hoc 拉丁文：特定的,临时的
 临时报表
 </>
-CMF
-abbreviation of: Configuration Management File
-The integration schema is used to transfer information from one tool to another. The format of this schema is held in the Configuration Management File.
-Find --> Integration --> Schema Documents...
+Xmtl
+abbreviation of: Transmital
 </>
 Workflow
 a module of SPF
-</>
-OD
-abbreivation of: overdue date
-超期
 </>
 E&I
 abbreivation of: electric & istrument
