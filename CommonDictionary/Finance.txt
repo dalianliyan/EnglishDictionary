@@ -11,6 +11,10 @@ risk exposure
 position
 头寸
 </>
+GAAP
+abbreviation of: Generally Accepted Accounting Principles
+公认会计准则
+</>
 CDS
 abbreviation of: credit default swap
 信用违约交换:也称信用违约掉期、信贷违约掉期、贷款违约保险；是信贷与保险的衍生工具之一，合约由两个法人交易，一个称为买方（信贷违约时受保护的一方），另一个称为卖方（保障买方于信贷违约时损失）。主要为约定期内信用违约提供一个高比率的保险业务，若担保方没有足够的保证金，会来相当大的投机行为。若保证金充足，其意义在于为买方提供被违约时的本金保障。
