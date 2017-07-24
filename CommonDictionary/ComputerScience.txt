@@ -90,3 +90,20 @@ normal/regular
 extended
 expanded
 </>
+----------------hardware---------------------
+SSD
+abbreviation of: Solid State Disk/Solid State Drive
+固态硬盘
+</>
+MTBF
+abbreviation of: Mean Time Between Failures
+故障间隔时间
+</>
+SLC
+abbreviation of: Single Layer Cell
+单层单元
+</>
+MLC
+abbreviation of: Multi-Level Cell
+多层单元
+</>
