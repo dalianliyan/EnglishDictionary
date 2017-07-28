@@ -1,3 +1,40 @@
 SPM
 abbreviation of: SmartPlant Material
 </>
+BOM
+abbreviation of: Bill of Material
+</>
+MTO
+abbreviation of: Material Take Off
+</>
+Req
+请购单
+</>
+PO
+abbreviation of: Purchase Order
+采购合同
+</>
+MRR
+入库单
+</>
+MIR
+出库单
+</>
+Release Note
+放行单
+</>
+FOB
+离岸价
+</>
+Port of Loading 
+起运港
+</>
+MRP
+Material Request Plan
+</>
+Supplier
+供货商
+</>
+Sub-contractor
+分包商
+</>
