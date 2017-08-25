@@ -96,3 +96,26 @@ class uid prefix for: SPFWorkflowStepRecipient
 RFR_
 class uid prefix for: SPFReasonForReceipt
 </>
+WorkflowStepStatus
+-----------------WorkflowStepStatus-------------------------
+NR
+abbreivation of: Not Ready
+</>
+RS
+abbreivation of: Ready to Start
+</>
+SO
+abbreivation of: Sign Off
+</>
+RJ
+abbreivation of: Rejected
+</>
+TE
+abbreivation of: Termination
+</>
+OHSO
+abbreivation of: On hold to sign off
+</>
+OHRJ
+abbreivation of: On hold to rejected
+</>
