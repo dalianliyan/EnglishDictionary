@@ -33,9 +33,6 @@ An enterprise construction management software solution designed to alleviate co
 PDS
 abbreviation of: Plant Design System
 </>
-SDA
-abbreviation of: Intergraph Smart® Digital Asset
-</>
 innovation
 创新
 </>
