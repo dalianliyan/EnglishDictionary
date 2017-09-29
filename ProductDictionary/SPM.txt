@@ -38,3 +38,9 @@ Supplier
 Sub-contractor
 分包商
 </>
+Receive
+收货
+</>
+Issue
+发货
+</>
