@@ -41,6 +41,15 @@ Sub-contractor
 Receive
 收货
 </>
+Transfer
+移库
+</>
+Inventory
+盘库
+</>
 Issue
-发货
+发货,发放
+</>
+Commodity Code
+商品编码
 </>
