@@ -24,6 +24,7 @@ Commodity Code
 </>
 BOM
 abbreviation of: Bill of Material
+材料清单
 </>
 PR
 abbreviation of: Purchase (Req)uisition
@@ -53,6 +54,7 @@ Release Note
 放行单
 </>
 FOB
+abbreviation of: free on board
 离岸价
 </>
 Port of Loading 
