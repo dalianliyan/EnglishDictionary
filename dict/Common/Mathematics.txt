@@ -57,3 +57,5 @@ symbol|english|chinese
 ＃|number |…号
 ℃|Celsius system|摄氏度
 ＠|at|在
+even 偶数
+odd 奇数
