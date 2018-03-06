@@ -128,9 +128,17 @@ PO
 abbreviation of: Project Order
 项目订单
 </>
+POC
+abbreviation of: Proof of Concept
+概念验证
+</>
 FRS
 abbreviation of: Functional Requirements Specification document
 功能需求说明书
+</>
+FDS
+abbreviation of: Functional Design Specification document
+功能设计规格书
 </>
 SOW
 abbreviation of: Statement of Work
