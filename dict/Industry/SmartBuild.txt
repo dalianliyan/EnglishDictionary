@@ -5,6 +5,9 @@ BIM
 abbreviation of: Building Information Modeling
 建筑信息模型
 </>
+Smart Build
+An enterprise construction management software solution designed to alleviate cost overruns and delays
+</>
 AEC
 abbreviation of: 
 ???????????????
@@ -26,9 +29,6 @@ EcoSys
 </>
 Nestix
 制造软件
-</>
-Smart Build
-An enterprise construction management software solution designed to alleviate cost overruns and delays
 </>
 PDS
 abbreviation of: Plant Design System
