@@ -1,3 +1,9 @@
-8D(Eight Disciplines Problem Solving)
-SPC(Statistical Process Control)
-FMEA(Failure Mode and Effect Analysis)
+8D
+Eight Disciplines Problem Solving
+</>
+SPC
+Statistical Process Control
+</>
+FMEA
+Failure Mode and Effect Analysis
+</>
